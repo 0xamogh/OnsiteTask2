@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnsiteTask2</string>
+    <string name="json">{"data":[{"type":"textview","value":"TextView","fontsize":"14sp"},
+                        {"type":"textview","value":"ImageView","fontsize":"12sp"},
+        {"type":"imageview","url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLX-J9yYaYYa3Ee5cJY-PIU8l2h0RJemdcQ7RPycnv6L_dRnng"},
+        {"type":"listview","value":["Hi","Are","You","Having","Fun","?"]}]}</string>
+</resources>
